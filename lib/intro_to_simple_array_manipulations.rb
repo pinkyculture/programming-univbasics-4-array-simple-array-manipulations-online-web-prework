@@ -35,6 +35,6 @@ def using_pop (array)
   end
     
     def using_insert (array, element)
-      
+      array = ["1" , "2" , "3""4"]
       array.insert(element)
     end
