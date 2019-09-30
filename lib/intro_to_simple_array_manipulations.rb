@@ -54,7 +54,7 @@ def using_pop (array)
     
     def using_delete_at (array, 1)
       array.delete(1)
-    
+    end
    
       
     
