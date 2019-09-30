@@ -47,7 +47,8 @@ def using_pop (array)
       array.flatten 
     end
     
-    def using_delete (array , element)
+    def using_delete (array , string)
+      array = string
       array.delete 
     end
     
