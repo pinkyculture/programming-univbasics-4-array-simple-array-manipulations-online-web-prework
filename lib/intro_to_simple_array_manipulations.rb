@@ -48,7 +48,7 @@ def using_pop (array)
     end
     
     def using_delete (array , string)
-      array = string
+     puts array = string
       array.delete 
     end
     
