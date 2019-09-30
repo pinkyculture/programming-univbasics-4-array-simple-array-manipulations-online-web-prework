@@ -34,7 +34,7 @@ def using_pop (array)
    array.concat(array2) 
   end
     
-    def using_insert (array, element)
+    def using_insert (array, "4")
       array = ["1" , "2" , "3"]
-      array.insert(element)
+      array.insert("4")
     end
