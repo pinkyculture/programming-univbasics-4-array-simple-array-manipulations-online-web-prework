@@ -16,3 +16,4 @@ def using_pop (array)
   
   end 
   
+  def using_pop
