@@ -30,6 +30,7 @@ def using_pop (array)
   end
   
   def using_concat (array , array2)
+    array2 = ["potato"]
     array.concat 
   end
     
