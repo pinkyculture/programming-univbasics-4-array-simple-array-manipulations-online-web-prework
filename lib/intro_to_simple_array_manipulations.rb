@@ -21,6 +21,6 @@ def using_pop (array)
     array.pop(2)
   end
   
-  def using_unshift (array)
+  def using_shift (array)
     array.shift
   end
