@@ -39,5 +39,7 @@ def using_pop (array)
       array.insert(4, element)
     end
     
-    def using_uniq (array)
-      
+    def using_uniq (array , array)
+      array.uniq 
+    end
+    
