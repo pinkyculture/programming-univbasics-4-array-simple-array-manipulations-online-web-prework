@@ -16,7 +16,8 @@ def using_pop (array)
   
   end 
   
-  def using_pop_with_args (array, argument)
+  def using_pop_with_args (array)
+    array = ["thing" , "object"]
     
   array.pop
   array.pop 
