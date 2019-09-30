@@ -36,5 +36,5 @@ def using_pop (array)
     
     def using_insert (array)
       
-      array.insert
+      array.insert(array)
     end
