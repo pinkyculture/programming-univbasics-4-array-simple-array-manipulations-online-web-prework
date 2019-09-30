@@ -29,7 +29,7 @@ def using_pop (array)
     array.shift(2)
   end
   
-  def using_concat (array)
+  def using_concat (array , array2)
     
    array.concat(array2) 
   end
