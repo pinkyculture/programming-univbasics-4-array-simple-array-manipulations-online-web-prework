@@ -52,6 +52,8 @@ def using_pop (array)
       array.delete 
     end
     
-    def 
+    def using_delete_at (array)
+      array.delete(1, array)
+      
       
     
